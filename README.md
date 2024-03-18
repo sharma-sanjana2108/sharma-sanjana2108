@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there I'm Sanjana Sharma👋
 
 # 💫 About Me:
 Passionate Full Stack Developer with a flair for creating robust, user-centric web applications. Constantly learning and adapting to new technologies.
